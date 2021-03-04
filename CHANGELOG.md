@@ -12,9 +12,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 *- Fixed (for any bug fixes)*
 *- Security (in case of vulnerabilities)*
 
-## [Unreleased]
+## [1.0.0] - 2021-03-04
 
 ### Added
+- Initial provision of the DDI-python_Nesstar Python script
 
 ### Changed
 

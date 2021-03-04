@@ -4,24 +4,18 @@
 ### What is this repository for? ###
 
 * Provide access to tools needed by CESSDA Nesstar users
-* Version 0.1
+* Version 1.0
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* Tool: DDI-python_Nesstar
+* Required: Python
+* Function: This script modifies a DDI xml file
+* Example function: Add agency attribute to the IDNo element
+* Usage: modify_ddi.py
+* Test: run run-test.cmd from folder test (Windows) or use the command line
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Wolfgang Zenk-Möltgen
+* wolfgang.zenk-moeltgen@gesis.org

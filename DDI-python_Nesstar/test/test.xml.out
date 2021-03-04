@@ -1,0 +1,19 @@
+#############################################################
+### modify_ddi.py 
+### Python script to modify a DDI xmlfile 
+### Version 1.0 2020-11-12 
+### Author: W. Zenk-Möltgen 
+###
+### 2021-03-04 15:03:40
+###
+#############################################################
+XML file is test.xml
+Output file is test.xml.out
+Errorfile is test.xml.err
+
+XML file uses standard namespace http://www.icpsr.umich.edu/DDI
+XML file uses elements with no prefix 
+Start modification 
+agency added to IDNo 
+
+Result: OK 
